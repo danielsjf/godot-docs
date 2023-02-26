@@ -26,7 +26,7 @@ In this guide, you will learn:
 Collision objects
 -----------------
 
-Godot offers four kinds of physics bodies, extending :ref:`CollisionObject2D <class_CollisionObject2D>`:
+Godot offers four kinds of physics bodies. The first one extends :ref:`CollisionObject2D <class_CollisionObject2D>`:
 
 - :ref:`Area2D <class_Area2D>`
     ``Area2D`` nodes provide **detection** and **influence**. They can detect when
